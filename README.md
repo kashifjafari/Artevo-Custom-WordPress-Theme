@@ -135,6 +135,7 @@ Web Developer & WordPress Developer
 
 - **Portfolio:** https://kashifjafari.github.io/
 - **LinkedIn:** https://www.linkedin.com/in/syedkashifjafari/
+- **Email** syedkashifikram11@gmail.com
 
 ---
 
